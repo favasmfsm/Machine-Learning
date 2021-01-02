@@ -17,4 +17,6 @@ L3=np.ones((3,5,6), dtype=int)
 
 #print(np.linspace(0,20,10))
 
-print(np.random.normal(0,2,(3,3)))
+#print(np.random.normal(0,2,(3,3)))
+
+print(np.eye(4))
